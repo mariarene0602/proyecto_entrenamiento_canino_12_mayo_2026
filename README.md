@@ -1,0 +1,2 @@
+# proyecto_entrenamiento_canino_12_mayo_2026
+Proyecto Entrenamiento Canino
