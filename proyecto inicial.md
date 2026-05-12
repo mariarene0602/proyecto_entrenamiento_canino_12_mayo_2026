@@ -18,6 +18,7 @@ Para un negocio de entrenamiento canino necesitas **11 entidades** agrupadas en 
 Algunas extensiones que podrías añadir más adelante: una entidad `VETERINARIO` o `HISTORIAL_SALUD` si ofreces seguimiento médico, o `NOTIFICACION` para recordatorios de sesiones y vencimiento de paquetes.
 
 Aquí tienes las tablas con todos los atributos
+
 <img width="658" height="359" alt="image" src="https://github.com/user-attachments/assets/b9009845-07af-4ff5-8763-bbe703d41b36" />
 <img width="651" height="382" alt="image" src="https://github.com/user-attachments/assets/5a50ce52-46ee-489a-abeb-5af00eab015e" />
 <img width="655" height="392" alt="image" src="https://github.com/user-attachments/assets/ff67b443-3cb0-4eb7-8ea7-7c1bbb9d6187" />
